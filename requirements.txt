@@ -1,0 +1,11 @@
+langchain-core>=1.0
+langchain-text-splitters>=1.0
+langchain-ollama>=1.0
+langchain-chroma>=1.0
+chromadb>=1.0
+pymupdf>=1.24
+rank-bm25>=0.2.2
+numpy
+pandas
+matplotlib
+streamlit>=1.50
